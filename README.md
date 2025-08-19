@@ -4,7 +4,7 @@
 
 Bienvenue sur le dépôt GitHub de **Fruitty**, une application mobile conçue pour découvrir, gérer et s'informer sur les fruits de manière ludique et intuitive. Développée avec **Flutter**, elle offre une expérience utilisateur fluide et riche en fonctionnalités.
 
-Ce projet a été commandité par **[Mastagate](https://mastagate.com/)**, un site web spécialisé dans l'agriculture et les nouvelles technologies, qui s'engage à promouvoir une alimentation saine et connectée.
+Ce projet a été commandité par **[Mastagate](https://mastagate.com/)**, une entreprise spécialisée dans les nouvelles technologies.
 
 ---
 
