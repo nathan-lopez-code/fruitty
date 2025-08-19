@@ -1,0 +1,162 @@
+[
+    {
+        "nom": "Pomme",
+        "image": "pomme.png",
+        "description": "Fruit croquant, sucré ou acidulé, cultivé dans le monde entier.",
+        "avantages": "Riche en fibres, vitamine C et antioxydants.",
+        "categorie": "Populaires",
+        "couleur": "#F4A261"
+    },
+    {
+        "nom": "Banane",
+        "image": "banane.png",
+        "description": "Fruit tropical à la chair douce et sucrée.",
+        "avantages": "Source d'énergie rapide, riche en potassium.",
+        "categorie": "Populaires",
+        "couleur": "#2A9D8F"
+    },
+    {
+        "nom": "Orange",
+        "image": "orange.png",
+        "description": "Agrume juteux au goût sucré et acidulé.",
+        "avantages": "Excellente source de vitamine C.",
+        "categorie": "Populaires",
+        "couleur": "#A7C495"
+    },
+    {
+        "nom": "Mangue",
+        "image": "mangue.png",
+        "description": "Fruit tropical sucré à la chair juteuse.",
+        "avantages": "Riche en vitamine A, C et fibres.",
+        "categorie": "Exotiques",
+        "couleur": "#5E6C80"
+    },
+    {
+        "nom": "Ananas",
+        "image": "ananas.png",
+        "description": "Fruit tropical à la chair jaune et au goût acidulé-sucré.",
+        "avantages": "Source de bromélaïne, favorise la digestion.",
+        "categorie": "Exotiques",
+        "couleur": "#E9C46A"
+    },
+    {
+        "nom": "Fraise",
+        "image": "fraise.png",
+        "description": "Petit fruit rouge au goût sucré et parfumé.",
+        "avantages": "Riche en antioxydants et vitamine C.",
+        "categorie": "Été",
+        "couleur": "#F4D35E"
+    },
+    {
+        "nom": "Pastèque",
+        "image": "pasteque.png",
+        "description": "Fruit d'été rafraîchissant à la chair rouge.",
+        "avantages": "Hydratant, faible en calories.",
+        "categorie": "Été",
+        "couleur": "#8EC3B0"
+    },
+    {
+        "nom": "Papaye",
+        "image": "papaye.png",
+        "description": "Fruit tropical à la chair orange douce.",
+        "avantages": "Riche en vitamine C et enzymes digestives.",
+        "categorie": "Exotiques",
+        "couleur": "#FFC0CB"
+    },
+    {
+        "nom": "Kiwi",
+        "image": "kiwi.png",
+        "description": "Petit fruit brun à la chair verte acidulée.",
+        "avantages": "Riche en vitamine C, potassium et fibres.",
+        "categorie": "Exotiques",
+        "couleur": "#C8A2C8"
+    },
+    {
+        "nom": "Raisin",
+        "image": "raisin.png",
+        "description": "Petit fruit sucré consommé frais ou sec.",
+        "avantages": "Source d'antioxydants et de potassium.",
+        "categorie": "Populaires",
+        "couleur": "#9E7B92"
+    },
+    {
+        "nom": "Poire",
+        "image": "poire.png",
+        "description": "Fruit à la chair douce et juteuse.",
+        "avantages": "Bonne source de fibres et vitamine C.",
+        "categorie": "Populaires",
+        "couleur": "#C4C46A"
+    },
+    {
+        "nom": "Cerise",
+        "image": "cerise.png",
+        "description": "Petit fruit rouge au goût sucré-acidulé.",
+        "avantages": "Riche en antioxydants et vitamine A.",
+        "categorie": "Été",
+        "couleur": "#A72C2C"
+    },
+    {
+        "nom": "Abricot",
+        "image": "abricot.png",
+        "description": "Petit fruit orange à la chair douce.",
+        "avantages": "Riche en vitamine A et fibres.",
+        "categorie": "Été",
+        "couleur": "#FFC55F"
+    },
+    {
+        "nom": "Prune",
+        "image": "prune.png",
+        "description": "Fruit juteux à la peau lisse et goût sucré.",
+        "avantages": "Source de fibres et antioxydants.",
+        "categorie": "Été",
+        "couleur": "#663399"
+    },
+    {
+        "nom": "Grenade",
+        "image": "grenade.png",
+        "description": "Fruit à graines rouges juteuses et acidulées.",
+        "avantages": "Très riche en antioxydants.",
+        "categorie": "Exotiques",
+        "couleur": "#DDA0DD"
+    },
+    {
+        "nom": "Noix de coco",
+        "image": "noix_de_coco.png",
+        "description": "Fruit tropical à la chair blanche et à l'eau sucrée.",
+        "avantages": "Hydratant, riche en bonnes graisses.",
+        "categorie": "Exotiques",
+        "couleur": "#A7C495"
+    },
+    {
+        "nom": "Litchi",
+        "image": "litchi.png",
+        "description": "Petit fruit tropical sucré à chair translucide.",
+        "avantages": "Riche en vitamine C et antioxydants.",
+        "categorie": "Exotiques",
+        "couleur": "#FFD700"
+    },
+    {
+        "nom": "Pamplemousse",
+        "image": "pamplemousse.png",
+        "description": "Agrume juteux au goût amer-acidulé.",
+        "avantages": "Riche en vitamine C et aide à la digestion.",
+        "categorie": "Populaires",
+        "couleur": "#FFA07A"
+    },
+    {
+        "nom": "Framboise",
+        "image": "framboise.png",
+        "description": "Petit fruit rouge ou rose très parfumé.",
+        "avantages": "Source d'antioxydants et fibres.",
+        "categorie": "Été",
+        "couleur": "#87CEFA"
+    },
+    {
+        "nom": "Cassis",
+        "image": "cassis.png",
+        "description": "Petit fruit noir acidulé.",
+        "avantages": "Très riche en vitamine C et polyphénols.",
+        "categorie": "Été",
+        "couleur": "#DDA0DD"
+    }
+]
